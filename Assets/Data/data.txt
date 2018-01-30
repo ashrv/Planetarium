@@ -1,0 +1,10 @@
+wood is an item. "You got wood"
+twig is an item. "It's surprisingly just a twig"
+stone is an item. "I may be the first to cast the stone"
+toolset is a category. "Wish it was all tooth and claw"
+axe is a tool. "Murder trees. Mass murder in case of a forest". axe is a type of toolset. axe requires 2 twigs and 1 stone.
+light is a category. "Let there be light"
+firepit is a structure. "Everything burns". firepit is a type of light. firepit requires 5 stones. firepit functions always with twig or wood.
+bush is a resource. "Bushiest bush of them all". bush produces a twig.
+rock is a resource. "Harder than anything. That's what she said". rock produces 2 stones with an hammer.
+tree is a resource. "Once there was a tree, and she loved a little boy". tree produces 4 wood with an axe.
